@@ -1,0 +1,25 @@
+﻿Genre,Sum of Marketing Spend (M$),Sum of IMDb Rating,Sum of Revenue (M$),Sum of Budget (M$),Director
+Sci-Fi,386,44.7,2286,1603,Director A
+Sci-Fi,303,25.3,2383,807,Director C
+Romance,302,43.9,2231,1016,Director A
+Action,297,47.1,3143,1309,Director D
+Horror,293,26.6,2378,1084,Director C
+Horror,291,23.5,1900,859,Director D
+Comedy,278,33.9,2425,930,Director A
+Romance,265,23.2,3412,500,Director B
+Comedy,256,26.6,2144,492,Director B
+Drama,256,31,1690,334,Director B
+Action,245,25.2,2403,506,Director C
+Drama,234,34.6,2064,747,Director C
+Comedy,233,30,2019,510,Director C
+Sci-Fi,217,25.5,3163,357,Director B
+Sci-Fi,188,28.5,1731,877,Director D
+Drama,179,17.8,924,429,Director D
+Horror,174,21,1473,532,Director A
+Romance,167,34.3,1574,145,Director D
+Action,138,22.6,912,559,Director B
+Horror,123,24.3,2561,527,Director B
+Action,114,17.5,1254,431,Director A
+Romance,97,16.9,1573,383,Director C
+Comedy,80,15.6,1198,308,Director D
+Drama,52,5.3,43,130,Director A

@@ -1,0 +1,13 @@
+﻿Genre,Success,Sum of IMDb Rating,Sum of Marketing Spend (M$),Sum of Revenue (M$),Sum of Budget (M$)
+Romance,Hit,98.2,707,8535,1434
+Comedy,Hit,87.9,756,6979,1577
+Horror,Hit,66.1,542,7186,1648
+Action,Hit,64,499,6805,1384
+Sci-Fi,Hit,62.1,707,7841,1622
+Sci-Fi,Flop,61.9,387,1722,2022
+Drama,Flop,52.7,429,843,986
+Action,Flop,48.4,295,907,1421
+Drama,Hit,36,292,3878,654
+Horror,Flop,29.3,339,1126,1354
+Romance,Flop,20.1,124,255,610
+Comedy,Flop,18.2,91,807,663

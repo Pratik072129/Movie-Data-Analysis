@@ -1,22 +1,58 @@
+📚 Project Overview
+This project analyzes movie data to uncover trends in budgets, revenues, genres, and ratings.
+It involves:
 
-# Movie Data Analysis
+Data Cleaning using Python (Google Colab) 🐍
 
-This project focuses on analyzing movie data to uncover trends, patterns, and insights. It provides tools for cleaning and preprocessing raw data, visualizing trends, and performing statistical analysis to better understand movie performance. The project is designed to be extensible, with plans for future enhancements.
+Interactive Dashboard creation using Power BI 📊
 
-## Steps to Use
-1. Clone the repository to your local machine.
-2. Install the required dependencies using the provided `requirements.txt` file.
-3. Run the analysis scripts to process the movie data and generate insights.
+The goal is to find meaningful insights like top grossing movies, genre distribution, budget vs revenue comparison, and more.
 
-## Implemented Features
-- **Data Cleaning and Preprocessing**: Handles missing values, inconsistent formats, and other data quality issues.
-- **Visualization of Movie Trends**: Generates charts and graphs to highlight trends in genres, box office performance, and more.
-- **Statistical Analysis**: Provides insights into factors influencing movie success, such as budget, cast, and release timing.
+🛠️ Technologies Used
+Python (Google Colab)
 
-## Future Additions
-- **Integration with External Movie Databases**: Automatically fetch and update data from sources like IMDb or TMDb.
-- **Advanced Predictive Analytics**: Use machine learning models to predict box office performance and audience reception.
-- **Interactive Dashboards**: Build web-based dashboards for dynamic data exploration and visualization.
+Pandas (Data Cleaning)
 
-This project is ideal for data enthusiasts, movie analysts, and anyone interested in exploring the intersection of data science and the film industry.
+Matplotlib / Seaborn (Optional for EDA)
 
+Power BI (Visualization & Dashboarding)
+
+Git & GitHub (Version Control)
+
+📊 Key Visualizations
+🎥 Top 10 Highest Grossing Movies (Bar Chart)
+
+💵 Budget vs Revenue Analysis (Scatter Plot)
+
+📅 Movies Released per Year (Line Chart)
+
+🎭 Genre Distribution (Pie Chart)
+
+🌟 Average Rating by Genre (Column Chart)
+
+🏷️ Budget Category Revenue (Stacked Column Chart)
+
+📈 Dashboard Highlights
+Filters for Genre and Release Year
+
+Interactive charts with drill-down
+
+Trend analysis over time
+
+Comparison of Budget and Revenue patterns
+
+🚀 How to Run Locally
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Pratik072129/Movie-Data-Analysis.git
+Open Movie_Data_Cleaning.ipynb in Google Colab (or Jupyter Notebook).
+
+Download and open Movie_Dashboard.pbix using Power BI Desktop.
+
+Explore the dashboard and data insights.
+
+📜 License
+This project is licensed under the MIT License — feel free to use it for educational purposes!
